@@ -34,7 +34,7 @@ pandas, seaborn, numpy, sklearn, matplotlib, scipy, lightgbm, xgboost, catboost\
 **Задачи**\
 Построить модель, прогнозирующую количество заказов такси.\
 **Сферы деятельности**\
-Бизнес, интернет-сервисы
+Бизнес, интернет-сервисы\
 **Библиотеки:**\
 pandas, seaborn, numpy, sklearn, matplotlib, scipy, lightgbm, xgboost, catboost\
 **Ключевые навыки**\
