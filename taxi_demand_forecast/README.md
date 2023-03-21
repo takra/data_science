@@ -10,7 +10,7 @@
 ## <font color='#42AAFF'>Сферы деятельности</font>
 Бизнес, интернет-сервисы
 ## <font color='#42AAFF'>Библиотеки</font>
-pandas, seaborn, numpy, sklearn, matplotlib, scipy, lightgbm, xgboost, catboost
+pandas, seaborn, numpy, sklearn, matplotlib, statsmodels, lightgbm, xgboost, catboost
 ## <font color='#42AAFF'>Ключевые навыки</font>
 Формирование таблицы потенциално влияющих признаков на основе предварительного анализа данных, кроссвалидация с учетом специфики временных рядов, оптимизация гиперпараметров моделей, оптимизация моделей по кол-ву признаков, экспоненциальные модели, модель SARIMAX, линейная регрессия, бустинги.
 ## <font color='#42AAFF'>Описание</font>
