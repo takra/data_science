@@ -36,7 +36,7 @@ pandas, seaborn, numpy, sklearn, matplotlib, scipy, lightgbm, xgboost, catboost\
 **Сферы деятельности**\
 Бизнес, интернет-сервисы\
 **Библиотеки:**\
-pandas, seaborn, numpy, sklearn, matplotlib, scipy, lightgbm, xgboost, catboost\
+pandas, seaborn, numpy, sklearn, matplotlib, statsmodels, lightgbm, xgboost, catboost\
 **Ключевые навыки**\
 Формирование таблицы потенциално влияющих признаков на основе предварительного анализа данных, кроссвалидация с учетом специфики временных рядов, оптимизация гиперпараметров моделей, оптимизация моделей по кол-ву признаков, экспоненциальные модели, модель SARIMAX, линейная регрессия, бустинги.\
 **Описание**\
